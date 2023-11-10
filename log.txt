@@ -1,0 +1,742 @@
+
+_________________START OF PROCESS_________________
+
+Fri May 27 11:47:29 2022
+ login_validation1 : FAILURE --->Login UnSucessful/Incorrect MOBILE number.
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Fri May 27 11:58:05 2022
+ login_validation1 : FAILURE --->Login UnSucessful/Incorrect MOBILE number.
+
+Fri May 27 11:58:12 2022
+ signup_validation : SUCCESS --->Successfully signed up
+
+Fri May 27 11:58:12 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Fri May 27 13:09:39 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Fri May 27 13:09:39 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Fri May 27 13:09:51 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Fri May 27 13:09:57 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 13:10:05 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 13:11:01 2022
+ logout : SUCCESS --->Ride history of user succefully re-loaded
+
+Fri May 27 13:11:04 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Fri May 27 13:16:28 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Fri May 27 13:17:43 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Fri May 27 13:18:30 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Fri May 27 13:20:03 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Fri May 27 13:20:46 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Fri May 27 13:22:16 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Fri May 27 13:40:57 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Fri May 27 13:40:57 2022
+ load_ride_history : FAILURE --->Ride history of user not loaded
+
+Fri May 27 13:41:09 2022
+ logout : SUCCESS --->Ride history of user succefully re-loaded
+
+Fri May 27 13:41:20 2022
+ signup_validation : SUCCESS --->Successfully signed up
+
+Fri May 27 13:41:20 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Fri May 27 13:42:06 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Fri May 27 13:42:11 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 13:42:19 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 13:42:57 2022
+ logout : SUCCESS --->Ride history of user succefully re-loaded
+
+Fri May 27 13:43:00 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Fri May 27 14:24:47 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Fri May 27 14:24:47 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Fri May 27 14:25:04 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Fri May 27 14:25:07 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 14:25:19 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 14:25:51 2022
+ logout : SUCCESS --->Ride history of user succefully re-loaded
+
+Fri May 27 14:25:54 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Fri May 27 14:31:45 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Fri May 27 14:31:45 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Fri May 27 14:32:03 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Fri May 27 14:32:08 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 14:32:13 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 14:32:52 2022
+ logout : SUCCESS --->Ride history of user succefully re-loaded
+
+Fri May 27 14:32:55 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Fri May 27 14:42:18 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Fri May 27 14:42:18 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Fri May 27 14:42:28 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Fri May 27 14:42:33 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 14:42:37 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 14:43:23 2022
+ logout : SUCCESS --->Ride history of user succefully re-loaded
+
+Fri May 27 14:43:27 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Fri May 27 15:07:10 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Fri May 27 15:07:10 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Fri May 27 15:07:49 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Fri May 27 15:07:54 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 15:08:34 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 15:08:56 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Fri May 27 15:09:09 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 15:09:16 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 15:09:41 2022
+ logout : SUCCESS --->Ride history of user succefully re-loaded
+
+Fri May 27 15:09:44 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Fri May 27 15:41:59 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Fri May 27 15:41:59 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Fri May 27 15:42:08 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Fri May 27 15:42:11 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 15:42:16 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 15:42:38 2022
+ logout : SUCCESS --->Ride history of user succefully re-loaded
+
+Fri May 27 15:42:41 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Fri May 27 16:02:28 2022
+ signup_validation : SUCCESS --->Successfully signed up
+
+Fri May 27 16:02:28 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Fri May 27 16:03:26 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Fri May 27 16:03:30 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 16:03:38 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 16:04:42 2022
+ logout : SUCCESS --->Ride history of user succefully re-loaded
+
+Fri May 27 16:05:06 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Fri May 27 16:15:19 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Fri May 27 16:15:19 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Fri May 27 16:15:35 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Fri May 27 16:15:38 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 16:16:00 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 16:16:31 2022
+ logout : SUCCESS --->Ride history of user succefully re-loaded
+
+Fri May 27 16:16:35 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Fri May 27 16:18:36 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Fri May 27 16:18:36 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Fri May 27 16:18:48 2022
+ logout : SUCCESS --->Ride history of user succefully re-loaded
+
+Fri May 27 16:18:52 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Fri May 27 16:59:03 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Fri May 27 16:59:03 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Fri May 27 16:59:09 2022
+ load_ride_history : SUCCESS --->Ride history of user succefully loaded
+
+Fri May 27 16:59:11 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Fri May 27 16:59:13 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 16:59:17 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Fri May 27 21:43:53 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Fri May 27 21:43:53 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Fri May 27 21:44:02 2022
+ load_ride_history : SUCCESS --->Ride history of user succefully loaded
+
+Fri May 27 21:44:24 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Fri May 27 21:44:28 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 21:44:35 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 21:45:12 2022
+ search_coupon : SUCCESS --->Coupon code found.
+
+Fri May 27 21:45:38 2022
+ logout : SUCCESS --->Ride history of user succefully re-loaded
+
+Fri May 27 21:45:41 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Fri May 27 22:13:38 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Fri May 27 22:13:38 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Fri May 27 22:13:44 2022
+ load_ride_history : SUCCESS --->Ride history of user succefully loaded
+
+Fri May 27 22:13:46 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+_________________START OF PROCESS_________________
+
+Fri May 27 22:16:11 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Fri May 27 22:16:11 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Fri May 27 22:16:18 2022
+ load_ride_history : SUCCESS --->Ride history of user succefully loaded
+
+Fri May 27 22:16:19 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+_________________START OF PROCESS_________________
+
+Fri May 27 22:23:27 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Fri May 27 22:23:27 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Fri May 27 22:23:34 2022
+ load_ride_history : SUCCESS --->Ride history of user succefully loaded
+
+Fri May 27 22:23:36 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+_________________START OF PROCESS_________________
+
+Fri May 27 22:28:13 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Fri May 27 22:28:13 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Fri May 27 22:28:22 2022
+ load_ride_history : SUCCESS --->Ride history of user succefully loaded
+
+Fri May 27 22:28:28 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+_________________START OF PROCESS_________________
+
+Fri May 27 23:57:38 2022
+ signup_validation : SUCCESS --->Successfully signed up
+
+Fri May 27 23:57:38 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Fri May 27 23:58:09 2022
+ load_ride_history : SUCCESS --->Ride history of user succefully loaded
+
+Fri May 27 23:58:21 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Fri May 27 23:58:25 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Fri May 27 23:58:31 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Sat May 28 00:21:55 2022
+ signup_validation : SUCCESS --->Successfully signed up
+
+Sat May 28 00:21:55 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Sat May 28 00:22:21 2022
+ load_ride_history : SUCCESS --->Ride history of user succefully loaded
+
+Sat May 28 00:22:36 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Sat May 28 00:22:40 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Sat May 28 00:22:45 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Sat May 28 00:23:32 2022
+ logout : SUCCESS --->Ride history of user succefully re-loaded
+
+Sat May 28 00:23:36 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Sat May 28 00:31:56 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Sat May 28 00:31:56 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Sat May 28 00:32:03 2022
+ file_empty_check : SUCCESS --->ride_history_user4.txt has content.
+
+Sat May 28 00:32:03 2022
+ load_ride_history : SUCCESS --->Ride history of user succefully loaded
+
+Sat May 28 00:32:21 2022
+ logout : SUCCESS --->Ride history of user succefully re-loaded
+
+Sat May 28 00:32:23 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Sat May 28 00:34:58 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Sat May 28 00:34:58 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Sat May 28 00:35:05 2022
+ load_ride_history : FAILURE --->Ride history of user not loaded
+
+Sat May 28 00:35:19 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Sat May 28 00:35:23 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Sat May 28 00:35:33 2022
+ location_validation : SUCCESS --->matching locations found but not approved.
+
+Sat May 28 00:35:51 2022
+ location_validation : SUCCESS --->matching locations found but not approved.
+
+Sat May 28 00:36:00 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Sat May 28 00:38:24 2022
+ signup_validation : SUCCESS --->Successfully signed up
+
+Sat May 28 00:38:24 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Sat May 28 00:38:58 2022
+ file_empty_check : FILE_EMPTY_ERROR --->ride_history_user6.txtis empty. No data available
+
+Sat May 28 00:39:08 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Sat May 28 00:39:22 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Sat May 28 00:39:37 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Sat May 28 00:41:19 2022
+ logout : SUCCESS --->Ride history of user succefully re-loaded
+
+Sat May 28 00:41:22 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Thu Jun 02 11:28:50 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Thu Jun 02 11:28:50 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Thu Jun 02 11:28:56 2022
+ file_empty_check : FILE_EMPTY_ERROR --->ride_history_user5.txtis empty. No data available
+
+Thu Jun 02 11:29:05 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Thu Jun 02 11:29:11 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Thu Jun 02 11:29:28 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Thu Jun 02 11:30:16 2022
+ search_coupon : SUCCESS --->Coupon code found.
+
+Thu Jun 02 11:30:31 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Thu Jun 02 11:30:39 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Thu Jun 02 11:30:43 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Thu Jun 02 11:31:18 2022
+ file_empty_check : FILE_EMPTY_ERROR --->ride_history_user5.txtis empty. No data available
+
+Thu Jun 02 11:31:25 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Thu Jun 02 19:57:08 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Thu Jun 02 19:57:08 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Thu Jun 02 19:57:15 2022
+ file_empty_check : FILE_EMPTY_ERROR --->ride_history_user5.txtis empty. No data available
+
+Thu Jun 02 19:57:26 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Thu Jun 02 19:57:40 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Thu Jun 02 19:57:59 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Thu Jun 02 19:59:22 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Thu Jun 02 19:59:22 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Thu Jun 02 19:59:40 2022
+ file_empty_check : FILE_EMPTY_ERROR --->ride_history_user5.txtis empty. No data available
+
+Thu Jun 02 19:59:43 2022
+ logout : SUCCESS --->Ride history of user succefully re-loaded
+
+Thu Jun 02 20:00:25 2022
+ login_validation1 : FAILURE --->Login UnSucessful/not signed up/Incorrect details.
+
+Thu Jun 02 20:00:45 2022
+ login_validation1 : FAILURE --->Login UnSucessful/not signed up/Incorrect details.
+
+Thu Jun 02 20:01:24 2022
+ login_validation1 : FAILURE --->Login UnSucessful/not signed up/Incorrect details.
+
+Thu Jun 02 20:01:42 2022
+ login_validation1 : FAILURE --->Login UnSucessful/not signed up/Incorrect details.
+
+Thu Jun 02 20:01:53 2022
+ login_validation1 : FAILURE --->Login UnSucessful/not signed up/Incorrect details.
+
+Thu Jun 02 20:01:57 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Thu Jun 02 20:03:59 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Thu Jun 02 20:03:59 2022
+ file_empty_check : FILE_EMPTY_ERROR --->ride_history_user4.txtis empty. No data available
+
+Thu Jun 02 20:04:06 2022
+ logout : SUCCESS --->Ride history of user succefully re-loaded
+
+Thu Jun 02 20:04:18 2022
+ login_validation1 : FAILURE --->Login UnSucessful/not signed up/Incorrect details.
+
+Thu Jun 02 20:04:39 2022
+ login_validation1 : FAILURE --->Login UnSucessful/not signed up/Incorrect details.
+
+Thu Jun 02 20:04:53 2022
+ login_validation1 : FAILURE --->Login UnSucessful/not signed up/Incorrect details.
+
+Thu Jun 02 20:04:57 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Thu Jun 02 20:09:15 2022
+ signup_validation : SUCCESS --->Successfully signed up
+
+Thu Jun 02 20:09:15 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Thu Jun 02 20:09:55 2022
+ file_empty_check : FILE_EMPTY_ERROR --->ride_history_user6.txtis empty. No data available
+
+Thu Jun 02 20:10:04 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Thu Jun 02 20:10:07 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Thu Jun 02 20:10:16 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Thu Jun 02 20:11:08 2022
+ logout : SUCCESS --->Ride history of user succefully re-loaded
+
+Thu Jun 02 20:11:11 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+
+_________________START OF PROCESS_________________
+
+Thu Jun 02 20:13:22 2022
+ login_validation1 : SUCCESS --->Login Sucessful.
+
+Thu Jun 02 20:13:22 2022
+ generateotp : SUCCESS --->OTP is successfully created
+
+Thu Jun 02 20:13:27 2022
+ file_empty_check : SUCCESS --->ride_history_user1.txt has content.
+
+Thu Jun 02 20:13:27 2022
+ load_ride_history : SUCCESS --->Ride history of user succefully loaded
+
+Thu Jun 02 20:13:29 2022
+ print_locations : SUCCESS --->Successfully displayed the locations.
+
+Thu Jun 02 20:13:36 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Thu Jun 02 20:13:47 2022
+ location_validation : SUCCESS --->matching locations found and approved.
+
+Thu Jun 02 20:14:27 2022
+ search_coupon : SUCCESS --->Coupon code found.
+
+Thu Jun 02 20:14:38 2022
+ logout : SUCCESS --->Ride history of user succefully re-loaded
+
+Thu Jun 02 20:14:41 2022
+ exitDump : SUCCESS --->Users List successfully transferred to secondary memory
+
+_________________END OF PROCESS_________________
+

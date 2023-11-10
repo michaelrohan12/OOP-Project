@@ -1,0 +1,5 @@
+100 blue 125 5 Mini Honda
+101 red 125 5 Mini Hyundai
+102 black 125 7 Sedan Toyota
+103 yellow 125 7 Sedan Maruti
+104 white 125 10 Prime Mahindra
